@@ -1,0 +1,18 @@
+{
+  "name": "sports-ball",
+  "version": "1.0.0",
+  "description": "A Hubot script that corrects sportsball names",
+  "main": "index.js",
+  "scripts": {
+    "start": "hubot --adapter shell --disable-httpd",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "hubot": "^2.16.0"
+  }
+}
